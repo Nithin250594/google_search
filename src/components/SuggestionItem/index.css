@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.search-items {
+  list-style-type: none;
+  color: #475569;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding-left: none;
+}
+
+.arrow-style {
+  width: 18px;
+  height: 18px;
+  color: #475569;
+}
+
+.search-item-box {
+  min-width: 440px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 30px;
+}
